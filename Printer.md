@@ -11,7 +11,7 @@ Through: HoD - Civil
 Subject: Requirement of a Laser Printer for faculty in Model Laboratory  
 
 Respected Sir  
-This is to bring to your kind notice that there are 07 faculty members sharing offices in 
+This is to bring to your kind notice that there are 06 faculty members sharing offices in 
 Model Lab, Department of Civil Engineering. For official work, taking printouts is frequently required
 and it becomes cumbersome to get the service from a common source i.e. Computational Lab, and hence 
 decreases efficacy.  
@@ -28,7 +28,6 @@ GNDEC, Ludhiana
 
 | Name of faculty Member | Signatures |
 | --- | --- |
-| Dr Harpal Singh | |
 | Prof Pardeep Singh | |
 | Prof Bhupinder Singh | |
 | Prof Sukhwinder Singh | |
