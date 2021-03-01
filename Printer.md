@@ -22,7 +22,6 @@ dedicated to staff in Model Laboratory.
 Thanking you in anticipation.  
 
 Yours Sincerely  
-
 Faculty Members (Model Laboratory)   
 Department of Civil Engineering   
 GNDEC, Ludhiana
