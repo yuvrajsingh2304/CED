@@ -18,6 +18,3 @@
 
 
 ![GNDEC](Presentation/Images/GNDEC.png)
-
-# Guru Nanak Dev Engineering College, Ludhiana
-An Autonomous College Under UGC Act 1956
