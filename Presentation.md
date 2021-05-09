@@ -9,9 +9,9 @@
 - [Students](Presentation/Students.md)
 - [PhD guided](Presentation/PhD.md)
 - [Publications](Presentation/Publications.md)
-- [Projects](Presentation/Presentation/Projects.md)
+- [Projects](Presentation/Projects.md)
 - [Grants](Presentation/Grants.md)
-- [Consultancy](Presentation/Presentation/Consultancy.md)
+- [Consultancy](Presentation/Consultancy.md)
 - [Infrastructure](Presentation/Infrastructure.md)
 - [Achievements](Presentation/Achievements.md)
 
