@@ -1,5 +1,5 @@
 # Department of Civil Engineering
-# Guru Nanak Dev Engineering College, Ludhiana
+## Guru Nanak Dev Engineering College, Ludhiana
 
 
 - [About Us](Presentation/About.md)
