@@ -1,4 +1,5 @@
 # Department of Civil Engineering
+# Guru Nanak Dev Engineering College, Ludhiana
 
 
 - [About Us](Presentation/About.md)
@@ -15,12 +16,8 @@
 - [Infrastructure](Presentation/Infrastructure.md)
 - [Achievements](Presentation/Achievements.md)
 
----
 
 ![GNDEC](Presentation/Images/GNDEC.png)
 
 # Guru Nanak Dev Engineering College, Ludhiana
 An Autonomous College Under UGC Act 1956
-
-
----
