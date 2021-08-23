@@ -150,7 +150,7 @@ Patents Filed: PPSC and Balihar (202_) also {HVS - in 2009 and 2011}
 
 *Consultancy*  
 
-![consultancy](PPT/consultancy_Revenue.png)
+![consultancy](PPT/Consultancy_Revenue.png)
 
 #### SLIDE 26
 
