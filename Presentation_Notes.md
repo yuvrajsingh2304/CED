@@ -132,7 +132,9 @@ Pictures Shown (Clockwise)
 
 *Research and Development*  
 
-Patents Filed: PPSC and Balihar (202_) also {HVS - in 2009 and 2011}
+Patents Filed: PPSC and Balihar (Date of filing - April 29,2021: **Title: Sustainable Soiled Sanitary Pad Ash based Concrete Composition and Method for Preparation Thereof)
+
+also {HVS - in 2009 and 2011}
 
 #### SLIDE 22
 
