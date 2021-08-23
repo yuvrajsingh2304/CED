@@ -5,7 +5,7 @@
 - [About Us](Presentation/About.md)
 - [CED Newsletter 2020-21](Presentation/CE/CE.md)
 - [Department Website](https://ce.gndec.ac.in/)
-- [Faculty](Presentation/Faculty.md)
+- [Faculty]https://gndec.ac.in/faculty/?deptt=14)
 - [Staff](Presentation/Presentation/Staff.md)
 - [Students](Presentation/Students.md)
 - [PhD guided](Presentation/PhD.md)
