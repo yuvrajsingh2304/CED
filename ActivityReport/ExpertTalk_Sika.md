@@ -33,10 +33,20 @@ The Department of Civil Engineering, GNDEC Ludhiana, successfully conducted an e
 Over **120 Civil Engineering UG and PG students** registered for the event. The speakers shared in-depth knowledge and industrial insights into Concrete Chemicals, Waterproofing Systems, and Concrete Repair Technologies. *Dr. Jagbir Singh*, Head of the Department, emphasized the importance of industry-oriented expert talks and encouraged continued collaborations. *Dr. Yuvraj Singh*, the event coordinator, extended a heartfelt vote of thanks to the industry experts, faculty team, and all students for making the event a grand success.The session received positive feedback from participants, citing it as highly informative and relevant to current construction industry trends.
 
 ---
-Scan the QR code for:
+### Scan the QR code for:
 
-![image](https://github.com/user-attachments/assets/ca855958-cb93-4ce9-9f74-10375cdd79cc)
+![image](https://github.com/user-attachments/assets/839da64c-5cff-40c4-826b-6710a9cb316f)
 
 ---
+### Glimpses
+
+![image](https://github.com/user-attachments/assets/06625ddd-6ed4-447f-a7b5-7831cba6f946)
+
+---
+
+<p align="left">Event Coordinator</p>
+<p align="right">HoD</p>
+
+
 
 
