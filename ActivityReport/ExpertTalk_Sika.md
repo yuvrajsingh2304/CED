@@ -44,8 +44,21 @@ Over **120 Civil Engineering UG and PG students** registered for the event. The 
 
 ---
 
-<p align="left">Event Coordinator</p>
-<p align="right">HoD</p>
+  
+
+    
+Event Coordinator                                                HoD
+
+
+
+
+
+
+
+
+
+
+
 
 
 
