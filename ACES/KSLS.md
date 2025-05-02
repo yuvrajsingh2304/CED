@@ -1,12 +1,11 @@
-<div style="text-align: center;">
-
 # GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA  
 ### Department of Civil Engineering  
 ### Association of Civil Engineering Students (ACES)  
 
----
-
 ## NOTICE  
+
+
+
 ### **Subject: Call for Faculty Proposals – Knowledge Sharing Lecture Series (KSLS) 2025-26**
 
 To mark the **70th Year of Excellence of Guru Nanak Dev Engineering College**, the **Association of Civil Engineering Students (ACES)**, Department of Civil Engineering, is organizing a **Knowledge Sharing Lecture Series (KSLS)**.
@@ -48,4 +47,4 @@ We look forward to your valuable contributions in making this event a success.
 - All Civil Engineering Faculty Members  
 - TAC Convener – **Dr. Arvind Dhingra**
 
-</div>
+
