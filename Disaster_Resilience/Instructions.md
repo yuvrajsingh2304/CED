@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Images/gne_new_logo.png" width="120">
+<img src="Images/GNDEC_Logo.png" width="120">
 </p>
 
 <h1 align="center">ENGINEERING FOR DISASTER RESILIENCE — EDR 2026</h1>
