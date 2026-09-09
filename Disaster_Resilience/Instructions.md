@@ -229,9 +229,6 @@ Join the official **EDR 2026 WhatsApp Group** for:
 </a>
 </p>
 
-**Group Name:**
-*Engineering for Disaster Resilience | GNDEC 2026*
-
 ---
 
 # ⚠️ Important <a name="important"></a>
